@@ -41,7 +41,8 @@ ol {
     position: fixed;
     top: 0;
     left: 0;
-    height: 5px;
+    height: 10px;
+    border-bottom: 3px solid #c986dc;
     width: 0%;
     background-color: #9034AA;
 }
